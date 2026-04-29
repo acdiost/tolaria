@@ -1,0 +1,9 @@
+name: HPC
+icon: 🕋
+color: null
+sort: null
+filters:
+  all:
+  - field: type
+    op: equals
+    value: ''
