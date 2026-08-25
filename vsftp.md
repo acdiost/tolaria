@@ -7,7 +7,6 @@ tags:
   - rocky-linux
   - 运维
 ---
-
 # Rocky Linux 9 vsftpd 安装配置全攻略
 
 ## 1. 简介
@@ -19,11 +18,11 @@ vsftpd（Very Secure FTP Daemon）是 Linux 系统上最常用的 FTP 服务器�
 ## 2. 环境说明
 
 | 项目 | 版本 |
-|------|------|
+| --- | --- |
 | 操作系统 | Rocky Linux 9.x |
 | vsftpd | 3.0.5 |
 | 防火墙 | firewalld |
-| SELinux | Enforcing（按需调整）|
+| SELinux | Enforcing（按需调整） |
 
 ---
 
@@ -146,7 +145,7 @@ sudo systemctl restart vsftpd
 
 不建议直接使用 root 或系统关键账号进行 FTP 操作，推荐创建独立 FTP 用户。
 
-```bash
+```shellscript
 # 创建用户，指定 home 目录，禁止 SSH 登录
 sudo useradd -m -d /home/ftpuser -s /sbin/nologin ftpuser
 
@@ -359,7 +358,7 @@ ssl_sslv3=NO
 ## 12. 小结
 
 | 步骤 | 关键命令 |
-|------|---------|
+| --- | --- |
 | 安装 | `dnf install -y vsftpd` |
 | 启动 | `systemctl enable --now vsftpd` |
 | 开放端口 | `firewall-cmd --permanent --add-service=ftp` |
