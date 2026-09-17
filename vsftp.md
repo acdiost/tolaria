@@ -1,5 +1,6 @@
 ---
 type: Note
+category: "[[linux-system-administration]]"
 tags:
   - linux
   - ftp

@@ -1,6 +1,7 @@
 ---
 type: Note
 status: Active
+category: "[[team-management-and-hr]]"
 ---
 
 # 如何做好部门经理

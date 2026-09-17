@@ -1,6 +1,7 @@
 ---
 type: Note
 status: Active
+category: "[[team-management-and-hr]]"
 ---
 
 # HPC 技术运维和客户支持部门绩效评审指南

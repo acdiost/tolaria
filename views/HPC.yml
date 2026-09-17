@@ -1,9 +1,10 @@
 name: HPC
 icon: 🕋
 color: null
-sort: null
+order: 0
+sort: title:asc
 filters:
   all:
-  - field: type
-    op: equals
-    value: ''
+  - field: category
+    op: contains
+    value: '[[hpc-infrastructure]]'

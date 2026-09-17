@@ -1,0 +1,10 @@
+name: 团队管理与人事
+icon: users
+color: null
+order: 4
+sort: title:asc
+filters:
+  all:
+  - field: category
+    op: contains
+    value: '[[team-management-and-hr]]'

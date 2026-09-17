@@ -1,0 +1,10 @@
+name: Linux 系统管理
+icon: server
+color: null
+order: 3
+sort: title:asc
+filters:
+  all:
+  - field: category
+    op: contains
+    value: '[[linux-system-administration]]'

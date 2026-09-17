@@ -1,6 +1,7 @@
 ---
 type: Note
 status: Active
+category: "[[team-management-and-hr]]"
 ---
 
 # 如何过部门人员绩效

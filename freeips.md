@@ -1,5 +1,6 @@
 ---
 type: Note
+category: "[[linux-system-administration]]"
 tags: [linux, identity-management, rocky-linux, sysadmin, freeipa, kerberos, ldap]
 ---
 # FreeIPA 在 Rocky Linux 9 上的安装配置与使用指南

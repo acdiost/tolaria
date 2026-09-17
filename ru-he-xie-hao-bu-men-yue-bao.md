@@ -1,6 +1,7 @@
 ---
 type: Note
 status: Active
+category: "[[team-management-and-hr]]"
 ---
 
 # 如何写好部门月报

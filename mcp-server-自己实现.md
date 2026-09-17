@@ -1,5 +1,6 @@
 ---
 type: Note
+category: "[[development-and-ai-tools]]"
 tags:
   - mcp
   - ai

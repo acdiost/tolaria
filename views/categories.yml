@@ -1,0 +1,10 @@
+name: 内容分类
+icon: folders
+color: null
+order: 2
+sort: title:asc
+filters:
+  all:
+  - field: type
+    op: equals
+    value: Category

@@ -1,15 +1,19 @@
 ---
 type: Note
+category: "[[vault-guides]]"
 ---
 # README
 
 这是一个基于 Tolaria 的个人知识库，所有内容以本地 Markdown 文件形式存储，并通过 wikilink 组织成知识图谱。
+
+从 [[knowledge-base-index|知识库总索引]] 开始浏览全部内容。
 
 ## 结构说明
 
 - 根目录中的 `.md` 文件：普通笔记或类型定义
 - `views/`：保存的视图配置
 - `attachments/`：附件资源文件
+- `category` 属性：笔记所属的主题分类
 
 ## 约定
 

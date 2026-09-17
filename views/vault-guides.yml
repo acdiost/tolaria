@@ -1,0 +1,10 @@
+name: 知识库使用说明
+icon: book-open
+color: null
+order: 5
+sort: title:asc
+filters:
+  all:
+  - field: category
+    op: contains
+    value: '[[vault-guides]]'

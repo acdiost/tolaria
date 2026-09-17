@@ -1,5 +1,8 @@
 ---
 type: Type
+_list_properties_display:
+  - category
+  - status
 ---
 
 # Note

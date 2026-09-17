@@ -1,6 +1,7 @@
 ---
 type: Note
 status: Active
+category: "[[vault-guides]]"
 ---
 # Tolaria 入门指南
 
