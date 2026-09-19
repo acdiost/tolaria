@@ -1,6 +1,6 @@
 name: HPC
 icon: 🕋
-color: null
+color: "#3b82f6"
 order: 0
 sort: title:asc
 filters:

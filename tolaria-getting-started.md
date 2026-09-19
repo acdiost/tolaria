@@ -1,7 +1,10 @@
 ---
 type: Note
-status: Active
 category: "[[vault-guides]]"
+status: Archived
+Date: 2026-04-29
+_icon: anchor
+_archived: true
 ---
 # Tolaria 入门指南
 
